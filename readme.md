@@ -40,6 +40,7 @@ Para o desenvolvimento desta aPI utilizou-se node.js, knex e o insomnia para cad
 <code><img height="25" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></code>
 
 
+
 ### Blibiotecas que deve ser instaladas
 
 ```bash
