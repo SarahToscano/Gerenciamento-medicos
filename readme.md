@@ -62,8 +62,14 @@ npm run knex:seed
 ## 🎨 Casos de testes
 
 <p align="center">
+ 
+ Listar todas especialidades médicas pré-cdastradas <br/>
+  <img alt="Landing page" src="./img/listar_todas_especialidades.jpg" width="800">
+ <br/>  <br/>
+ 
+ 
  Cria perfil <br/>
-  <img alt="Landing page" src="./img/criar_perfil.jpg" width="800">  Cria perfil
+  <img alt="Landing page" src="./img/criar_perfil.jpg" width="800">
  <br/>  <br/>
  
  Lista todos perfis cadastrados<br/>
