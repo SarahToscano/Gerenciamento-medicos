@@ -1,4 +1,4 @@
-## :bulb: Gerenciamento médico
+## :bulb: Sistema de Gerenciamento de Cadastros Médicos
 
 Este projeto consite em uma API para cadastro de médicos.
 
