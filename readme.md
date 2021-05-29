@@ -21,14 +21,14 @@ Os usuário cadastrados podem ter:
  
  
  Já estão incluídas no sistema 8 possíveis especialidades:
-  1- Alergologia
-  2- Angiologia
-  3- Buco maxilo
-  4- Cardiologia Clínica
-  5- Cardiologia Infantil
-  6- Cirugia cabeça e pescoço
-  7- Cirugia cardíaca
-  8- Cirugia de Tórax
+  1. Alergologia
+  2. Angiologia
+  3. Buco maxilo
+  4. Cardiologia Clínica
+  5. Cardiologia Infantil
+  6. Cirugia cabeça e pescoço
+  7. Cirugia cardíaca
+  8. Cirugia de Tórax
 
 
 ## 🚀 Tecnologias
