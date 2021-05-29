@@ -5,9 +5,9 @@ Este projeto consite em uma API para cadastro de médicos.
 Os usuário cadastrados podem ter:
  - Nome (até 120 caracteres);
  - CRM (com até 7 dígitos, caso digite menos são completados com 0 à frente);
- - Telefone
+ - Telefone;
  - Celular;
- - Cep ( O sistema consulta o CEP inserido e importa automaticamento todo o endereço).
+ - CEP ( O sistema consulta o CEP inserido e importa automaticamento todo o endereço).
 
  Operações:
  - [x] Cadastro de usuários
@@ -33,7 +33,7 @@ Os usuário cadastrados podem ter:
 
 ## 🚀 Tecnologias
 
-Para o desenvolvimento desta aPI utilizou-se node.js, knex e o insomnia para cadastro de testes.
+Para o desenvolvimento desta API utilizou-se node.js, knex e o insomnia como plataforma de cadastro.
 
 <code><img height="25" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></code>
 <code><img height="25" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code> 
@@ -41,7 +41,7 @@ Para o desenvolvimento desta aPI utilizou-se node.js, knex e o insomnia para cad
 
 
 
-### Blibiotecas que deve ser instaladas
+### Blibiotecas que devem ser instaladas
 
 ```bash
 npm install express
