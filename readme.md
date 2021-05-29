@@ -10,6 +10,7 @@ Os usuário cadastrados podem ter:
 
  Operações:
  - [x] Cadastro de usuários
+ - [x] Mínimo de duas especialidades
  - [x] Atualização de usuários
  - [x] Exclusão de usuários
  - [x] Busca do endereço através do CEP
@@ -28,6 +29,8 @@ Para o desenvolvimento desta aPI utilizou-se node.js, knex e o insomnia para cad
 
 
 ### Blibiotecas que deve ser instaladas
+
+```bash
 npm install express
 npm i --save-dev @types/express
 npm i ts-node -D
@@ -38,13 +41,51 @@ npm i sqlite3
 npm install --save cep-promise
 npm install node-cep-correios --save
 
+```
+
 
 ## :information_source: Como executar?
+
+```bash
 #inicia a aplicação
 npm run dev 
 
 #Cria o banco de dados
 npm run knex:migrate
 
-#Inicializa o banco com as funcionalidades pre-cadastradas
+#Inicializa o banco com as especialiades médicas pre-cadastradas
 npm run knex:seed
+
+```
+
+
+## 🎨 Casos de testes
+
+<p align="center">
+ 
+ Listar todas especialidades médicas pré-cdastradas <br/>
+  <img alt="Landing page" src="./img/listar_todas_especialidades.jpg" width="800">
+ <br/>  <br/>
+ 
+ 
+ Cria perfil <br/>
+  <img alt="Landing page" src="./img/criar_perfil.jpg" width="800">
+ <br/>  <br/>
+ 
+ Lista todos perfis cadastrados<br/>
+  <img alt="Landing page" src="./img/listar_todos.jpg" width="800"> <br/>  <br/>
+ 
+ Buscar por usuário com ID específico<br/>
+  <img alt="Landing page" src="./img/busca_id.jpg" width="800"> <br/>  <br/>
+ 
+ Buscar usuários com especialidade específica<br/>
+  <img alt="Landing page" src="./img/busca_especialidade.jpg" width="800"> <br/>  <br/>
+ 
+ Excluir usuário<br/>
+  <img alt="Landing page" src="./img/excluir_user.jpg" width="800"> <br/>  <br/>
+ 
+  Atualizar usuário<br/>
+  <img alt="Landing page" src="./img/update_user.jpg" width="800"> <br/>  <br/>
+ 
+ 
+</p>
