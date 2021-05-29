@@ -52,7 +52,15 @@ npm run dev
 #Cria o banco de dados
 npm run knex:migrate
 
-#Inicializa o banco com as funcionalidades pre-cadastradas
+#Inicializa o banco com as especialiades médicas pre-cadastradas
 npm run knex:seed
 
 ```
+
+
+## 🎨 Casos de testes
+
+<p align="center">
+  <img alt="Landing page" src="./img/criar_perfil.jpg" width="800">  Cria perfil<br/>  <br/>
+  <img alt="Landing page" src="./img/listar_todos.jpg" width="800"> Lista todos perfis cadastrados<br/>  <br/>
+</p>
