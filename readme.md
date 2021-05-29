@@ -28,6 +28,8 @@ Para o desenvolvimento desta aPI utilizou-se node.js, knex e o insomnia para cad
 
 
 ### Blibiotecas que deve ser instaladas
+
+```bash
 npm install express
 npm i --save-dev @types/express
 npm i ts-node -D
@@ -38,8 +40,12 @@ npm i sqlite3
 npm install --save cep-promise
 npm install node-cep-correios --save
 
+```
+
 
 ## :information_source: Como executar?
+
+```bash
 #inicia a aplicação
 npm run dev 
 
@@ -48,3 +54,5 @@ npm run knex:migrate
 
 #Inicializa o banco com as funcionalidades pre-cadastradas
 npm run knex:seed
+
+```
