@@ -92,7 +92,8 @@ npm run knex:seed
   <img alt="Landing page" src="./img/busca_id.jpg" width="800"> <br/>  <br/>
  
  Buscar usuários com especialidade específica<br/>
-  <img alt="Landing page" src="./img/busca_especialidades.jpg" width="800"> <br/>  <br/>
+  <img alt="Landing page" src="./img/busca_especiliadades.jpg" width="800"> <br/>  <br/>
+ 
  
  Excluir usuário<br/>
   <img alt="Landing page" src="./img/excluir_user.jpg" width="800"> <br/>  <br/>
