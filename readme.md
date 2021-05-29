@@ -10,6 +10,7 @@ Os usuário cadastrados podem ter:
 
  Operações:
  - [x] Cadastro de usuários
+ - [x] Mínimo de duas especialidades
  - [x] Atualização de usuários
  - [x] Exclusão de usuários
  - [x] Busca do endereço através do CEP
@@ -61,6 +62,24 @@ npm run knex:seed
 ## 🎨 Casos de testes
 
 <p align="center">
-  <img alt="Landing page" src="./img/criar_perfil.jpg" width="800">  Cria perfil<br/>  <br/>
-  <img alt="Landing page" src="./img/listar_todos.jpg" width="800"> Lista todos perfis cadastrados<br/>  <br/>
+ Cria perfil <br/>
+  <img alt="Landing page" src="./img/criar_perfil.jpg" width="800">  Cria perfil
+ <br/>  <br/>
+ 
+ Lista todos perfis cadastrados<br/>
+  <img alt="Landing page" src="./img/listar_todos.jpg" width="800"> <br/>  <br/>
+ 
+ Buscar por usuário com ID específico<br/>
+  <img alt="Landing page" src="./img/busca_id.jpg" width="800"> <br/>  <br/>
+ 
+ Buscar usuários com especialidade específica<br/>
+  <img alt="Landing page" src="./img/busca_especialidade.jpg" width="800"> <br/>  <br/>
+ 
+ Excluir usuário<br/>
+  <img alt="Landing page" src="./img/excluir_user.jpg" width="800"> <br/>  <br/>
+ 
+  Atualizar usuário<br/>
+  <img alt="Landing page" src="./img/update_user.jpg" width="800"> <br/>  <br/>
+ 
+ 
 </p>
